@@ -1,3 +1,7 @@
 import matplotlib.pyplot as plt
-a = plt.style.available
-print(a)
+
+plt.style.use('seaborn')
+fig, ax = plt.subplots()
+ax.scatter(2, 4)
+
+plt.show()
