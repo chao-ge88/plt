@@ -13,3 +13,7 @@ xw.App(visible=Ture，add_book=False)第一个表示显示程序窗口与否，
 20201210 今天学习了重命名多个工作簿，还有replace函数，切片的一些问题
 
 20201211 今天学习批量重命名多个工作簿
+
+20201213 info = sheet.used_range明天看看这个是啥意思raw_value啥意思？
+今天学习了微信上一个xlwings的一个例子挺好，需要再反复练习下
+
