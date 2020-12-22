@@ -27,17 +27,11 @@ st_>op_>cond
 cond(yes)_>e
 cond(no)_>op
 ```
-:rocket:
+:rocket::rocket::rocket::rocket::rocket:
+：joy：：joy：：joy：：joy：：joy：：joy：：joy：
 
-名称 | md标记 | md格式
 
-：--------|： ————————————： | ——————
-
-引用|>|我是引用文字
-嵌套引用|多个>|python数据之道
-202021222  
-
-这今天又没有写代码，还是忙。
+202021222  这今天又没有写代码，还是忙。
 这两天学习了scratchjr，而且是用ipad操作的，感觉很有意思，能深刻的理解一些问题
 然后还能不太受地方的限制。然后还是工作的事有点多。
 
