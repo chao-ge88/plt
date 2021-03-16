@@ -1,0 +1,5 @@
+import tushare.pro as ts
+
+df = ts.get_today_ticks('600036')
+df.head(10)
+
