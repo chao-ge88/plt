@@ -1,6 +1,6 @@
 from selenium import webdriver
 import re
-import time
+
 for p in range(11):
 
     chrome_options = webdriver.ChromeOptions()  # 设置无界面浏览器设置
@@ -8,7 +8,6 @@ for p in range(11):
     browser = webdriver.Chrome(options=chrome_options)
     url = 'https://movie.douban.com/top250?start='+str(25*p)+'&filter='
     browser.get(url)
-    time.sleep(1)
     data = browser.page_source
     browser.quit()
 
